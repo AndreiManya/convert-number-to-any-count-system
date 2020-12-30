@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/convert-number-to-any-count-system/static/css/main.b495f676.chunk.css",
-    "main.js": "/convert-number-to-any-count-system/static/js/main.e014147a.chunk.js",
-    "main.js.map": "/convert-number-to-any-count-system/static/js/main.e014147a.chunk.js.map",
+    "main.css": "/convert-number-to-any-count-system/static/css/main.edc8b2ba.chunk.css",
+    "main.js": "/convert-number-to-any-count-system/static/js/main.3aea811f.chunk.js",
+    "main.js.map": "/convert-number-to-any-count-system/static/js/main.3aea811f.chunk.js.map",
     "runtime-main.js": "/convert-number-to-any-count-system/static/js/runtime-main.74701fb8.js",
     "runtime-main.js.map": "/convert-number-to-any-count-system/static/js/runtime-main.74701fb8.js.map",
     "static/js/2.f1df4b49.chunk.js": "/convert-number-to-any-count-system/static/js/2.f1df4b49.chunk.js",
     "static/js/2.f1df4b49.chunk.js.map": "/convert-number-to-any-count-system/static/js/2.f1df4b49.chunk.js.map",
     "index.html": "/convert-number-to-any-count-system/index.html",
-    "static/css/main.b495f676.chunk.css.map": "/convert-number-to-any-count-system/static/css/main.b495f676.chunk.css.map",
+    "static/css/main.edc8b2ba.chunk.css.map": "/convert-number-to-any-count-system/static/css/main.edc8b2ba.chunk.css.map",
     "static/js/2.f1df4b49.chunk.js.LICENSE.txt": "/convert-number-to-any-count-system/static/js/2.f1df4b49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.74701fb8.js",
     "static/js/2.f1df4b49.chunk.js",
-    "static/css/main.b495f676.chunk.css",
-    "static/js/main.e014147a.chunk.js"
+    "static/css/main.edc8b2ba.chunk.css",
+    "static/js/main.3aea811f.chunk.js"
   ]
 }
